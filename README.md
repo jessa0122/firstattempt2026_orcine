@@ -1,20 +1,20 @@
-<img width="403" height="865" alt="03-login png" src="https://github.com/user-attachments/assets/875f73db-5e8f-437f-a6d6-46c149cd6752" /># Orcine
+# Orcine
 
 AI-assisted web application project using Vue.js
 
 ---
 
-## 📌 Framework
+## Framework
 
 Vue.js (Vite)
 
-## 📚 Module
+## Module
 
 CS 2240 – Web Development
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 This project is an **Alumni Donation Dashboard Web Application** designed for Ateneo de Davao University. It allows alumni and administrators to:
 
@@ -30,7 +30,7 @@ The system is built using **Vue.js** and developed with the assistance of multip
 
 ---
 
-## ⚙️ Installation Guide
+##  Installation Guide
 
 Follow these steps to run the project on another computer:
 
@@ -46,14 +46,11 @@ http://localhost:5173
 
 ---
 
-## 🤖 AI Tools Used
+## AI Tools Used
 
-* ChatGPT
-* Gemini
-* Claude AI
-* DeepSeek
-
-These tools were used for:
+* ChatGPT Plus
+  
+This tool is used for:
 
 * generating UI and layout
 * debugging Vue errors
@@ -63,7 +60,7 @@ These tools were used for:
 
 ---
 
-## 💬 Prompt Used
+## Prompt Used
 
 **First Prompt:**
 Create a Vue.js alumni donation dashboard web application with login, role selection, and admin panel.
@@ -73,7 +70,7 @@ Create a complete Vue.js web application that includes signup, forgot password, 
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Signup Page
 <img width="401" height="858" alt="01-signup png" src="https://github.com/user-attachments/assets/f8be0ee7-d34f-49a8-9a01-630763ac60aa" />
@@ -126,19 +123,16 @@ Create a complete Vue.js web application that includes signup, forgot password, 
 
 ---
 
-## 🧠 Subjective Experience (AI Vibe)
+## Subjective Experience (AI Vibe)
 
 Using AI tools made development faster and easier. Each AI had a different experience:
 
 * ChatGPT – best for debugging and structured coding
-* Gemini – helpful for UI ideas
-* Claude AI – useful for explanations and refinement
-* DeepSeek – good for alternative approaches
 
 Overall, AI greatly improved productivity, but manual checking and adjustments were still necessary.
 
 ---
 
-## 🔗 Repository Link
+## Repository Link
 
 https://github.com/jessa0122/firstattempt2026_orcine
