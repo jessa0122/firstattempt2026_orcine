@@ -1,4 +1,4 @@
-# Orcine
+<img width="403" height="865" alt="03-login png" src="https://github.com/user-attachments/assets/875f73db-5e8f-437f-a6d6-46c149cd6752" /># Orcine
 
 AI-assisted web application project using Vue.js
 
@@ -76,44 +76,53 @@ Create a complete Vue.js web application that includes signup, forgot password, 
 ## 📸 Screenshots
 
 ### Signup Page
+<img width="401" height="858" alt="01-signup png" src="https://github.com/user-attachments/assets/f8be0ee7-d34f-49a8-9a01-630763ac60aa" />
 
-![Signup](screenshots/01-signup.png.png)
 
 ### Forgot Password
 
-![Forgot](screenshots/02-forgot-password.png.png)
+<img width="378" height="758" alt="02-forgot-password png" src="https://github.com/user-attachments/assets/faa126d1-f184-4212-bfee-7db0a44eee21" />
+
 
 ### Login Page
 
-![Login](screenshots/03-login.png.png)
+<img width="403" height="865" alt="03-login png" src="https://github.com/user-attachments/assets/d43b814c-cda7-43c0-9c31-d44dd36d18fc" />
+
 
 ### Role Selection
 
-![Role](screenshots/04-role-selection.png.png)
+<img width="407" height="862" alt="04-role-selection png" src="https://github.com/user-attachments/assets/c2df1e5b-ed03-4589-9f69-9461f56bbe75" />
+
 
 ### Admin Dashboard
+<img width="412" height="860" alt="05-admin-home png" src="https://github.com/user-attachments/assets/84d66fee-f96c-4c3f-b876-59a466603736" />
 
-![Dashboard](screenshots/05-admin-home.png.png)
+
 
 ### Donation Campaigns
 
-![Campaigns](screenshots/06-donation-campaigns.png.png)
+<img width="406" height="858" alt="06-donation-campaigns png" src="https://github.com/user-attachments/assets/64cec43d-2e7f-4e91-9030-2a9c239fd3d5" />
+
 
 ### Create Campaign
 
-![Create](screenshots/07-create-campaign.png.png)
+<img width="416" height="875" alt="07-create-campaign png" src="https://github.com/user-attachments/assets/01dde712-7170-4017-b7a6-0b06a7a94b4a" />
+
 
 ### Donation Review
+<img width="411" height="863" alt="08-review png" src="https://github.com/user-attachments/assets/4bd70d0a-7111-4c87-bef1-2933eb243ded" />
 
-![Review](screenshots/08-review.png.png)
+
 
 ### Leaderboard
 
-![Leaderboard](screenshots/09-leaderboard.png.png)
+<img width="396" height="865" alt="09-leaderboard png" src="https://github.com/user-attachments/assets/2107e199-9d4f-4ad8-9488-266ea9a3fa9e" />
+
 
 ### Notifications
+<img width="412" height="866" alt="10-notifications png" src="https://github.com/user-attachments/assets/f39fc237-185b-4158-90c2-34e774706024" />
 
-![Notifications](screenshots/10-notifications.png.png)
+
 
 ---
 
