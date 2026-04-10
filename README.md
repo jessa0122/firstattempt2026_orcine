@@ -26,7 +26,7 @@ This project is an **Alumni Donation Dashboard Web Application** designed for At
 * View leaderboard rankings
 * Receive notifications
 
-The system is built using **Vue.js** and developed with the assistance of multiple AI tools.
+The system is built using **Vue.js** and developed with the assistance of ChatGPT Plus.
 
 ---
 
@@ -125,9 +125,7 @@ Create a complete Vue.js web application that includes signup, forgot password, 
 
 ## Subjective Experience (AI Vibe)
 
-Using AI tools made development faster and easier. Each AI had a different experience:
-
-* ChatGPT – best for debugging and structured coding
+Using AI tool made development faster and easier and for me ChatGPT is best for debugging, designing, and structured coding.
 
 Overall, AI greatly improved productivity, but manual checking and adjustments were still necessary.
 
