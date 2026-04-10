@@ -10,7 +10,7 @@ Vue.js (Vite)
 
 ## Module
 
-CS 2240 – Web Development
+Donation Module
 
 ---
 
