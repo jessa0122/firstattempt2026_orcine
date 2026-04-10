@@ -125,7 +125,7 @@ Create a complete Vue.js web application that includes signup, forgot password, 
 
 ## Subjective Experience (AI Vibe)
 
-Using AI tool made development faster and easier and for me ChatGPT is best for debugging, designing, and structured coding.
+Using AI tool made development faster and easier and for me ChatGPT Plus is best for debugging, designing, and structured coding.
 
 Overall, AI greatly improved productivity, but manual checking and adjustments were still necessary.
 
