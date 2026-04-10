@@ -1,42 +1,38 @@
-# .
+# Orcine
 
-This template should help get you started developing with Vue 3 in Vite.
+AI-assisted web application project using Vue.js
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 📌 Framework
+Vue.js (Vite)
 
-## Recommended Browser Setup
+## 📚 Module
+CS 2240 – Web Development
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+---
 
-## Type Support for `.vue` Imports in TS
+## 📖 Project Overview
+This project is an **Alumni Donation Dashboard Web Application** designed for Ateneo de Davao University. It allows alumni and administrators to:
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+- Register and login  
+- Select user roles (Alumni / Administrator)  
+- View donation dashboard  
+- Create donation campaigns  
+- Track donations and progress  
+- View leaderboard rankings  
+- Receive notifications  
 
-## Customize configuration
+The system is built using **Vue.js** and developed with the assistance of multiple AI tools.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
+## ⚙️ Installation Guide
 
-```sh
+Follow these steps to run the project on another computer:
+
+```bash
+git clone https://github.com/jessa0122/firstattempt2026_orcine.git
+cd firstattempt2026_orcine
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
